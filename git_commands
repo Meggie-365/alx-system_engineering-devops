@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Shell completed task"
+git commit -m "Shell variables correction for  task 2 3 17 7"
 git push
