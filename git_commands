@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Adding Advanced Task"
+git commit -m "Shell variable task"
 git push
